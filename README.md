@@ -4,6 +4,10 @@ A lightweight 3.3.5a addon that displays the mouse hovered zone's level range un
 
 This is a fork of [ZonesLevel-Epoch](https://github.com/Arthur-Helias/ZonesLevel-Epoch) by Walter Bennet, backported to the TriumVirate server by Jedborg.
 
+## Screenshot
+
+![The hovered zone's level range shown under its title on the world map](screenshot.png)
+
 ## Installation
 
 1. Download the [latest version](https://github.com/JedborgWoW/ZonesLevel-TriumVirate/archive/refs/heads/master.zip) of the addon.
