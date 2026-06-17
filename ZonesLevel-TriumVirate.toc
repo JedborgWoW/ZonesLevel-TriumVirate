@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Zones Level TriumVirate
+## Version: 1.0.0
+## Author: Walter Bennet
+## Notes: A lightweight addon that displays the mouse hovered zone's level under its title on the world map.
+## x-URL: https://github.com/JedborgWoW/ZonesLevel-TriumVirate
+
+ZonesLevel-TriumVirate.lua
