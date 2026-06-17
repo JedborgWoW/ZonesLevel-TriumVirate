@@ -20,5 +20,7 @@ This addon should be compatible with any addon that does not also try to modify 
 ## Credits
 
 [Jedborg](https://github.com/JedborgWoW) - Backport to the TriumVirate server
+
 [Walter Bennet](https://github.com/Arthur-Helias) - Original addon (ZonesLevel-Epoch)
+
 [Tenyar97](https://github.com/Tenyar97) - Turtle WoW version of LevelRange, inspiration
