@@ -2,17 +2,9 @@
 
 A lightweight 3.3.5a addon that displays the mouse hovered zone's level range under its title on the world map.
 
-This is a fork of [ZonesLevel-Epoch](https://github.com/Arthur-Helias/ZonesLevel-Epoch) by Walter Bennet, with the zone level ranges adapted for the TriumVirate server.
+This is a fork of [ZonesLevel-Epoch](https://github.com/Arthur-Helias/ZonesLevel-Epoch) by Walter Bennet, backported to the TriumVirate server by Jedborg.
 
 ## Installation
-
-### GitAddonsManager (**Recommended**)
-
-1. Open GitAddonsManager and navigate to the `ADDONS` tab at the top.
-2. Click the `+` button and paste the following URL into the field: `https://github.com/JedborgWoW/ZonesLevel-TriumVirate.git`.
-3. Enable the addon from the addons menu on the character selection screen.
-
-### Manual installation
 
 1. Download the [latest version](https://github.com/JedborgWoW/ZonesLevel-TriumVirate/archive/refs/heads/master.zip) of the addon.
 2. Extract the archive.
@@ -27,5 +19,6 @@ This addon should be compatible with any addon that does not also try to modify 
 
 ## Credits
 
+[Jedborg](https://github.com/JedborgWoW) - Backport to the TriumVirate server
 [Walter Bennet](https://github.com/Arthur-Helias) - Original addon (ZonesLevel-Epoch)
 [Tenyar97](https://github.com/Tenyar97) - Turtle WoW version of LevelRange, inspiration
